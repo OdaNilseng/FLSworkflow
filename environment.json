@@ -1,0 +1,12 @@
+[
+    {
+      "id": "ballast1",
+      "lc": "ballast",
+      "combination": 0.7,
+      "ballast_height": 17,
+
+      "g" : 9.81,
+      "rho_s": 1025,
+      "lc": "Ballast"
+    }
+]

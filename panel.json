@@ -1,0 +1,10 @@
+[
+  {
+    "location": "side_shell",
+    "elevation": 7.5,
+    "radius": 40,
+    "stiffener_spacing": 0.6,
+    "plate_thickness": 20,
+    "SN-curve": "E"
+  }
+]

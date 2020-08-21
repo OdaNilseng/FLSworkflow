@@ -1,0 +1,19 @@
+[
+  {
+    "environment":
+    {
+      "g" : 9.81,
+      "rho_s": 1025},
+
+    "hull":
+    {
+      "diameter": 80,
+      "height": 25,
+      "sideshell_levels": 5
+    },
+    "plate":
+    {"thickness": 25,
+      "SN": E
+    }
+  }
+]
